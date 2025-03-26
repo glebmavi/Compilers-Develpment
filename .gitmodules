@@ -1,0 +1,3 @@
+[submodule "LR4/Interpretator-Minilang"]
+	path = LR4/Interpretator-Minilang
+	url = https://github.com/glebmavi/Interpretator-Minilang.git
